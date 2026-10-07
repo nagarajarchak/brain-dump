@@ -12,3 +12,25 @@ export PATH="/Library/PostgreSQL/18/bin:$PATH"
 ```
 source ~/.zshrc
 ```
+
+### Spin up postgres server / db
+
+- Run postgres server
+
+```
+sudo -u postgres pg_ctl -D /Library/PostgreSQL/18/data/ start
+```
+
+- Run postgres instance from terminal
+
+```
+psql -U postgres
+```
+
+- Commands
+
+```
+List databases: \l
+Connect to db: \c <db_name>
+```
+

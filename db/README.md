@@ -26,11 +26,21 @@ sudo -u postgres pg_ctl -D /Library/PostgreSQL/18/data/ start
 ```
 psql -U postgres
 ```
+### Commands
 
-- Commands
+- List databases
 
 ```
-List databases: \l
-Connect to db: \c <db_name>
+\l
 ```
 
+- Connect to db
+```
+\c <db_name>
+```
+
+- List tables in db
+
+```
+\dt
+```

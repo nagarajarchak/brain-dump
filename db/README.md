@@ -44,3 +44,9 @@ psql -U postgres
 ```
 \dt
 ```
+
+- Get schema for a table
+
+```
+\d <table_name>
+```

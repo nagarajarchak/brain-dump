@@ -32,7 +32,6 @@ func reader(conn *websocket.Conn) {
     }   
 }
 
-
 func wsEndpoint(w http.ResponseWriter, r *http.Request) {
     upgrader.CheckOrigin = func(r *http.Request) bool { return true }
     ws, err := upgrader.Upgrade(w, r, nil)

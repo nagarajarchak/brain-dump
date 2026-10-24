@@ -1,0 +1,17 @@
+[
+  {"user_id": "U001", "plan": "premium", "monthly_fee": 13.99, "start_date": "2021-03-15", "status": "active"},
+  {"user_id": "U002", "plan": "basic", "monthly_fee": 7.99, "start_date": "2020-11-01", "status": "active"},
+  {"user_id": "U003", "plan": "premium", "monthly_fee": 13.99, "start_date": "2022-01-20", "status": "active"},
+  {"user_id": "U004", "plan": "basic", "monthly_fee": 7.99, "start_date": "2021-07-08", "status": "churned"},
+  {"user_id": "U005", "plan": "premium", "monthly_fee": 13.99, "start_date": "2020-05-30", "status": "active"},
+  {"user_id": "U006", "plan": "standard", "monthly_fee": 10.99, "start_date": "2022-06-15", "status": "active"},
+  {"user_id": "U007", "plan": "basic", "monthly_fee": 7.99, "start_date": "2021-09-22", "status": "active"},
+  {"user_id": "U008", "plan": "premium", "monthly_fee": 13.99, "start_date": "2023-01-10", "status": "active"},
+  {"user_id": "U009", "plan": "standard", "monthly_fee": 10.99, "start_date": "2020-08-14", "status": "churned"},
+  {"user_id": "U010", "plan": "basic", "monthly_fee": 7.99, "start_date": "2022-03-05", "status": "active"},
+  {"user_id": "U011", "plan": "premium", "monthly_fee": 13.99, "start_date": "2021-12-01", "status": "active"},
+  {"user_id": "U012", "plan": "standard", "monthly_fee": 10.99, "start_date": "2023-02-18", "status": "active"},
+  {"user_id": "U013", "plan": "premium", "monthly_fee": 13.99, "start_date": "2020-07-22", "status": "active"},
+  {"user_id": "U014", "plan": "basic", "monthly_fee": 7.99, "start_date": "2021-04-17", "status": "churned"},
+  {"user_id": "U015", "plan": "standard", "monthly_fee": 10.99, "start_date": "2022-09-30", "status": "active"}
+]

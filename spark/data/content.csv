@@ -1,0 +1,16 @@
+content_id,title,type,genre,release_year,duration_mins,rating
+C001,The Mandalorian,series,action,2019,40,TV-14
+C002,Encanto,movie,animation,2021,99,PG
+C003,WandaVision,series,sci-fi,2021,30,TV-PG
+C004,Black Panther,movie,action,2018,134,PG-13
+C005,Loki,series,sci-fi,2021,50,TV-14
+C006,Moana,movie,animation,2016,107,PG
+C007,The Falcon,series,action,2021,50,TV-14
+C008,Encanto 2,movie,animation,2023,95,PG
+C009,Hawkeye,series,action,2021,45,TV-14
+C010,Turning Red,movie,animation,2022,100,PG
+C011,Moon Knight,series,action,2022,50,TV-14
+C012,Strange World,movie,animation,2022,102,PG
+C013,Andor,series,sci-fi,2022,45,TV-14
+C014,Avatar,movie,sci-fi,2009,162,PG-13
+C015,Obi-Wan Kenobi,series,sci-fi,2022,60,TV-PG

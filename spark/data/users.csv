@@ -1,0 +1,16 @@
+user_id,name,country,subscription_plan,signup_date,age
+U001,Alice Johnson,US,premium,2021-03-15,28
+U002,Bob Smith,UK,basic,2020-11-01,35
+U003,Carol White,US,premium,2022-01-20,24
+U004,Dave Brown,IN,basic,2021-07-08,42
+U005,Eve Davis,US,premium,2020-05-30,31
+U006,Frank Miller,CA,standard,2022-06-15,27
+U007,Grace Wilson,AU,basic,2021-09-22,38
+U008,Hank Moore,US,premium,2023-01-10,22
+U009,Ivy Taylor,UK,standard,2020-08-14,45
+U010,Jack Anderson,IN,basic,2022-03-05,29
+U011,Karen Thomas,US,premium,2021-12-01,33
+U012,Leo Jackson,CA,standard,2023-02-18,26
+U013,Mia Harris,AU,premium,2020-07-22,41
+U014,Nate Martin,US,basic,2021-04-17,36
+U015,Olivia Garcia,MX,standard,2022-09-30,23
